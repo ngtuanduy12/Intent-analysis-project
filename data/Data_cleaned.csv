@@ -1,0 +1,866 @@
+﻿Text;Intent
+bật đèn lên;turn_on_light
+mở đèn phòng khách;turn_on_light
+bật đèn phòng ngủ;turn_on_light
+cho sáng đèn lên;turn_on_light
+bật đèn chính;turn_on_light
+mở đèn bếp;turn_on_light
+bật tất cả đèn;turn_on_light
+mở đèn hành lang;turn_on_light
+bật đèn bàn;turn_on_light
+bật đèn học;turn_on_light
+cho đèn sáng lên;turn_on_light
+mở đèn phòng tôi;turn_on_light
+bật đèn ngoài sân;turn_on_light
+mở đèn phòng khách giúp tôi;turn_on_light
+bật đèn lên đi;turn_on_light
+bật đèn phòng khách lên;turn_on_light
+mở đèn phòng ngủ đi;turn_on_light
+bật hết đèn trong nhà bếp;turn_on_light
+cho bật đèn phòng tắm;turn_on_light
+mở đèn cầu thang lên;turn_on_light
+bật đèn hành lang giúp tôi;turn_on_light
+bật đèn sân vườn đi;turn_on_light
+mở đèn ban công;turn_on_light
+bật đèn phòng thờ lên;turn_on_light
+mở đèn phòng làm việc;turn_on_light
+bật đèn tủ bếp;turn_on_light
+mở đèn chùm phòng ăn;turn_on_light
+bật đèn đọc sách bên giường;turn_on_light
+mở hết đèn tầng một;turn_on_light
+bật đèn cảm biến ở cầu thang;turn_on_light
+bạn có thể bật đèn giúp tôi không;turn_on_light
+làm ơn mở đèn lên được không;turn_on_light
+bạn bật đèn phòng khách giúp tôi nhé;turn_on_light
+có thể cho đèn sáng lên không;turn_on_light
+làm ơn bật đèn phòng ngủ;turn_on_light
+bạn mở đèn giúp tôi được không;turn_on_light
+bật đèn lên giùm tôi nhé;turn_on_light
+có thể bật đèn ngoài sân không;turn_on_light
+làm ơn mở đèn bếp;turn_on_light
+bạn bật đèn lên giúp tôi;turn_on_light
+làm ơn bật đèn phòng khách giúp tôi được không;turn_on_light
+bạn có thể mở đèn phòng ngủ cho tôi không;turn_on_light
+phiền anh bật đèn nhà bếp giúp em với ạ;turn_on_light
+cho tôi hỏi, bật đèn phòng tắm được không;turn_on_light
+làm ơn mở đèn hành lang giúp, tôi đi tối quá;turn_on_light
+có thể bật đèn cầu thang lên được không;turn_on_light
+bật đèn sân vườn giúp tôi nhé, cảm ơn;turn_on_light
+bạn làm ơn bật đèn ban công dùm mình;turn_on_light
+cho phép tôi nhờ bật đèn phòng thờ một lát;turn_on_light
+xin hãy bật hết đèn ở phòng khách;turn_on_light
+trời tối quá rồi, bật đèn phòng khách lên đi;turn_on_light
+mẹ đang nấu ăn, bật đèn nhà bếp lên giúp con;turn_on_light
+tối thế này không thấy đường, bật đèn cầu thang đi;turn_on_light
+có khách đến chơi, bật đèn phòng khách lên cho sáng;turn_on_light
+tôi đang tìm mắt kính, bật đèn bàn lên;turn_on_light
+con sợ bóng tối, bật đèn phòng ngủ cho con;turn_on_light
+sắp ăn tối rồi, bật đèn phòng ăn lên đi;turn_on_light
+trời tối mà chưa bật đèn sân vườn, ra ngoài nguy hiểm;turn_on_light
+mắt mỏi quá, bật đèn đọc sách lên;turn_on_light
+chuẩn bị thắp hương, bật đèn phòng thờ đi;turn_on_light
+trời tối quá, bật đèn lên đi;turn_on_light
+không thấy gì cả, mở đèn giúp tôi;turn_on_light
+phòng tối quá, bật đèn lên;turn_on_light
+đang đọc sách, mở đèn giúp tôi;turn_on_light
+tối rồi, bật đèn đi;turn_on_light
+không đủ sáng, mở đèn lên;turn_on_light
+đi lại khó quá, bật đèn giúp tôi;turn_on_light
+trời sắp tối, mở đèn;turn_on_light
+phòng thiếu ánh sáng, bật đèn;turn_on_light
+mắt không nhìn rõ, bật đèn lên;turn_on_light
+phòng tối quá nhỉ;turn_on_light
+không thấy gì luôn;turn_on_light
+tối quá;turn_on_light
+sao tối vậy;turn_on_light
+ánh sáng yếu quá;turn_on_light
+nhìn không rõ gì cả;turn_on_light
+chỗ này tối thật;turn_on_light
+tối om luôn;turn_on_light
+không có ánh sáng gì hết;turn_on_light
+tối ghê;turn_on_light
+tối quá, không nhìn thấy gì cả;turn_on_light
+sao phòng khách tối om thế này;turn_on_light
+trời ơi, tối như mực;turn_on_light
+lại quên bật đèn cầu thang rồi;turn_on_light
+ở đây tối quá, vướng chân bàn rồi;turn_on_light
+phòng ngủ tối thui, con không dám vào;turn_on_light
+lối đi mờ quá, có đèn không nhỉ;turn_on_light
+màu tối thế này đọc sách sao được;turn_on_light
+chỗ này tối quá, mấy giờ rồi trời;turn_on_light
+tối quá, bà không thấy đường đâu;turn_on_light
+tắt đèn;turn_off_light
+tắt đèn phòng khách;turn_off_light
+tắt hết đèn;turn_off_light
+tắt đèn phòng ngủ;turn_off_light
+tắt đèn đi;turn_off_light
+tắt đèn chính;turn_off_light
+tắt đèn bếp;turn_off_light
+tắt đèn ngoài sân;turn_off_light
+tắt đèn hành lang;turn_off_light
+tắt đèn ngay;turn_off_light
+tắt đèn giúp tôi;turn_off_light
+tắt đèn phòng tôi;turn_off_light
+cho tắt đèn;turn_off_light
+ngắt đèn;turn_off_light
+tắt toàn bộ đèn;turn_off_light
+tắt đèn phòng khách đi;turn_off_light
+tắt hết đèn trong phòng ngủ;turn_off_light
+tắt đèn nhà bếp;turn_off_light
+tắt đèn ngủ đi;turn_off_light
+tắt đèn cầu thang;turn_off_light
+tắt đèn sân vườn;turn_off_light
+tắt đèn phòng tắm;turn_off_light
+tắt đèn ban công;turn_off_light
+tắt đèn phòng thờ;turn_off_light
+tắt đèn tủ bếp;turn_off_light
+tắt đèn bàn học;turn_off_light
+tắt hết đèn tầng hai;turn_off_light
+tắt đèn chùm phòng ăn;turn_off_light
+tắt đèn cảm biến;turn_off_light
+tắt đèn phòng làm việc;turn_off_light
+làm ơn tắt đèn phòng khách giúp tôi;turn_off_light
+bạn tắt đèn phòng ngủ được không ạ;turn_off_light
+phiền chị tắt đèn nhà bếp dùm em;turn_off_light
+có thể tắt đèn hành lang được không;turn_off_light
+làm ơn tắt hết đèn trong phòng;turn_off_light
+cho tôi nhờ tắt đèn cầu thang;turn_off_light
+bạn vui lòng tắt đèn sân vườn;turn_off_light
+tắt đèn phòng tắm giúp tôi nhé;turn_off_light
+làm ơn tắt đèn phòng thờ;turn_off_light
+bạn tắt đèn bàn học dùm mình;turn_off_light
+bạn có thể tắt đèn giúp tôi không;turn_off_light
+làm ơn tắt đèn đi;turn_off_light
+bạn tắt đèn phòng khách giúp tôi;turn_off_light
+có thể tắt đèn không;turn_off_light
+tắt đèn giùm tôi nhé;turn_off_light
+làm ơn tắt đèn phòng ngủ;turn_off_light
+bạn tắt đèn giúp tôi được không;turn_off_light
+có thể tắt hết đèn không;turn_off_light
+tắt đèn giúp tôi nhé;turn_off_light
+làm ơn tắt đèn;turn_off_light
+sáng quá, tắt đèn đi;turn_off_light
+đi ngủ rồi, tắt đèn;turn_off_light
+không cần ánh sáng nữa, tắt đèn;turn_off_light
+tiết kiệm điện, tắt đèn;turn_off_light
+ra ngoài rồi, tắt đèn;turn_off_light
+đèn chói quá, tắt đi;turn_off_light
+không dùng nữa, tắt đèn;turn_off_light
+ban ngày rồi, tắt đèn;turn_off_light
+đủ sáng rồi, tắt đèn;turn_off_light
+chói mắt quá, tắt đèn;turn_off_light
+trời sáng rồi, tắt đèn phòng khách đi;turn_off_light
+ra ngoài hết rồi, tắt đèn trong nhà;turn_off_light
+đi ngủ thôi, tắt hết đèn đi;turn_off_light
+không có ai ở phòng này, tắt đèn tiết kiệm điện;turn_off_light
+phim xong rồi, tắt đèn phòng khách;turn_off_light
+con đã ngủ rồi, tắt đèn phòng ngủ;turn_off_light
+nấu ăn xong rồi, tắt đèn bếp đi;turn_off_light
+sắp có bão, tắt hết đèn ngoài sân;turn_off_light
+mắt chói quá, tắt đèn bàn đi;turn_off_light
+lãng phí điện quá, tắt bớt đèn đi;turn_off_light
+sáng quá, không nhìn ra ngoài được;turn_off_light
+đèn chói quá, tắt bớt đi;turn_off_light
+đi ngủ đây;turn_off_light
+ra ngoài thôi, tối lắm rồi;turn_off_light
+không cần sáng thế đâu;turn_off_light
+phòng này vắng quá;turn_off_light
+trời sáng rồi, còn bật đèn làm gì;turn_off_light
+điện lãng phí quá;turn_off_light
+tối quá, tắt đèn đi;turn_off_light
+đèn sáng trưng không ngủ được;turn_off_light
+sáng quá nhỉ;turn_off_light
+chói mắt quá;turn_off_light
+không cần đèn nữa;turn_off_light
+ánh sáng mạnh quá;turn_off_light
+đủ sáng rồi;turn_off_light
+không cần bật đèn;turn_off_light
+thừa ánh sáng rồi;turn_off_light
+sáng ghê;turn_off_light
+không cần đèn đâu;turn_off_light
+đèn sáng quá;turn_off_light
+bật quạt lên đi;turn_on_fan
+mở quạt phòng khách;turn_on_fan
+bật quạt trần;turn_on_fan
+cho quạt chạy đi;turn_on_fan
+mở quạt cây trong phòng ngủ;turn_on_fan
+bật quạt bàn học;turn_on_fan
+bật quạt nhà bếp;turn_on_fan
+mở quạt thông gió;turn_on_fan
+bật hết quạt trong phòng;turn_on_fan
+cho quạt quay đi;turn_on_fan
+bật quạt hơi nước;turn_on_fan
+mở quạt hút mùi;turn_on_fan
+bật quạt phòng tắm;turn_on_fan
+mở quạt sân vườn;turn_on_fan
+bật quạt số lớn nhất;turn_on_fan
+mở quạt đi;turn_on_fan
+bật quạt phòng khách;turn_on_fan
+cho quạt chạy;turn_on_fan
+mở quạt phòng ngủ;turn_on_fan
+bật quạt ngay;turn_on_fan
+cho quạt quay;turn_on_fan
+mở quạt giúp tôi;turn_on_fan
+mở quạt đứng;turn_on_fan
+cho quạt hoạt động;turn_on_fan
+mở quạt phòng tôi;turn_on_fan
+bật quạt ngoài sân;turn_on_fan
+cho quạt chạy mạnh lên;turn_on_fan
+bạn có thể bật quạt giúp tôi không;turn_on_fan
+làm ơn mở quạt giúp tôi;turn_on_fan
+bạn bật quạt phòng khách nhé;turn_on_fan
+có thể bật quạt không;turn_on_fan
+mở quạt giùm tôi với;turn_on_fan
+bạn bật quạt giúp tôi được không;turn_on_fan
+làm ơn bật quạt phòng ngủ;turn_on_fan
+có thể cho quạt chạy không;turn_on_fan
+bật quạt giúp tôi nhé;turn_on_fan
+làm ơn mở quạt;turn_on_fan
+làm ơn bật quạt giúp tôi;turn_on_fan
+bạn có thể mở quạt phòng khách được không;turn_on_fan
+phiền anh bật quạt trần dùm;turn_on_fan
+cho tôi nhờ bật quạt cây nhé;turn_on_fan
+làm ơn bật quạt bàn giúp em;turn_on_fan
+có thể bật quạt nhà bếp được không;turn_on_fan
+bạn vui lòng bật quạt thông gió;turn_on_fan
+xin hãy bật quạt phòng ngủ giúp;turn_on_fan
+làm ơn bật quạt đi, nóng quá;turn_on_fan
+bật quạt giúp tôi với ạ;turn_on_fan
+nóng quá, mở quạt cho tôi;turn_on_fan
+tập thể dục xong, bật quạt cho mát;turn_on_fan
+nấu ăn nóng quá, bật quạt nhà bếp;turn_on_fan
+học bài mà nóng không tập trung được, bật quạt đi;turn_on_fan
+có khách, bật quạt phòng khách;turn_on_fan
+em bé ngủ nóng quá, bật quạt nhẹ thôi;turn_on_fan
+phòng vừa lau xong, bật quạt cho khô;turn_on_fan
+mùi thuốc lá nồng quá, bật quạt thông gió;turn_on_fan
+máy tính nóng, bật quạt thổi vào;turn_on_fan
+điều hòa chưa kịp mát, bật quạt trước;turn_on_fan
+nóng quá, bật quạt lên đi;turn_on_fan
+trong phòng ngột ngạt, mở quạt;turn_on_fan
+không khí bí quá, bật quạt giúp tôi;turn_on_fan
+trời nóng, mở quạt lên;turn_on_fan
+đang làm việc, cần quạt;turn_on_fan
+khó chịu quá, bật quạt;turn_on_fan
+mồ hôi nhiều quá, mở quạt;turn_on_fan
+không có gió, bật quạt;turn_on_fan
+trời oi bức, mở quạt;turn_on_fan
+cần làm mát, bật quạt;turn_on_fan
+nóng quá nhỉ;turn_on_fan
+không có gió gì cả;turn_on_fan
+bí quá;turn_on_fan
+ngột ngạt thật;turn_on_fan
+không khí khó chịu quá;turn_on_fan
+nóng ghê;turn_on_fan
+không chịu nổi nhiệt độ này;turn_on_fan
+phòng kín quá;turn_on_fan
+hơi nóng rồi;turn_on_fan
+chịu không nổi;turn_on_fan
+nóng quá;turn_on_fan
+nóng như đổ lửa;turn_on_fan
+mồ hôi nhễ nhại rồi;turn_on_fan
+sao phòng này ngột ngạt thế;turn_on_fan
+gió đâu chẳng có;turn_on_fan
+nóng quá, không chịu nổi;turn_on_fan
+trời ơi, nóng muốn xỉu;turn_on_fan
+mát tí đi;turn_on_fan
+có gió không nhỉ;turn_on_fan
+tắt quạt đi;turn_off_fan
+tắt quạt;turn_off_fan
+tắt quạt lên;turn_off_fan
+tắt quạt giùm;turn_off_fan
+tắt quạt phòng khách;turn_off_fan
+tắt quạt phòng ngủ;turn_off_fan
+tắt quạt nhà bếp;turn_off_fan
+tắt cái quạt đi;turn_off_fan
+tắt hết quạt đi;turn_off_fan
+tắt quạt trần đi;turn_off_fan
+tắt quạt cây đi;turn_off_fan
+tắt quạt bàn đi;turn_off_fan
+tắt quạt đi, không cần nữa;turn_off_fan
+tắt quạt phòng tắm;turn_off_fan
+tắt quạt ở đây đi;turn_off_fan
+tắt quạt ngoài sân;turn_off_fan
+tắt quạt ban công;turn_off_fan
+tắt quạt cầu thang;turn_off_fan
+tắt quạt hành lang;turn_off_fan
+tắt quạt đi ạ;turn_off_fan
+tắt quạt giùm cái;turn_off_fan
+tắt quạt hộ tôi;turn_off_fan
+tắt quạt đi, mát rồi;turn_off_fan
+tắt quạt đi, lạnh rồi;turn_off_fan
+tắt quạt, tôi ngủ đây;turn_off_fan
+tắt quạt phòng con đi;turn_off_fan
+tắt quạt phòng khách đi ạ;turn_off_fan
+tắt quạt phòng ngủ đi em;turn_off_fan
+tắt quạt nhà bếp đi mẹ ơi;turn_off_fan
+tắt quạt kia đi;turn_off_fan
+tắt quạt này đi;turn_off_fan
+tắt quạt góc phòng;turn_off_fan
+tắt quạt gần cửa sổ;turn_off_fan
+tắt quạt ở trần nhà;turn_off_fan
+tắt quạt đi, bật điều hòa;turn_off_fan
+tắt quạt, tôi muốn yên tĩnh;turn_off_fan
+tắt quạt đi, ồn quá;turn_off_fan
+tắt hết quạt trong phòng;turn_off_fan
+tắt quạt tầng một;turn_off_fan
+tắt quạt tầng hai;turn_off_fan
+tắt quạt dưới nhà;turn_off_fan
+tắt quạt trên gác;turn_off_fan
+tắt quạt trong bếp;turn_off_fan
+tắt quạt ngoài hiên;turn_off_fan
+tắt quạt sân vườn;turn_off_fan
+tắt quạt chỗ tôi ngồi;turn_off_fan
+tắt quạt đi, tôi lên phòng;turn_off_fan
+tắt quạt đi, tôi ra ngoài;turn_off_fan
+làm ơn tắt quạt giúp tôi;turn_off_fan
+bạn có thể tắt quạt giúp tôi không;turn_off_fan
+làm ơn tắt quạt phòng khách;turn_off_fan
+bạn tắt quạt giúp tôi với;turn_off_fan
+tắt quạt giúp tôi nhé;turn_off_fan
+có thể tắt quạt được không ạ;turn_off_fan
+làm ơn tắt quạt hộ tôi;turn_off_fan
+bạn làm ơn tắt quạt đi;turn_off_fan
+tôi nhờ bạn tắt quạt giúp;turn_off_fan
+phiền bạn tắt quạt giúp tôi;turn_off_fan
+bạn tắt quạt dùm tôi cái;turn_off_fan
+làm ơn tắt hết quạt trong phòng;turn_off_fan
+bạn có thể tắt quạt phòng ngủ không;turn_off_fan
+làm ơn tắt quạt nhà bếp giúp tôi;turn_off_fan
+bạn tắt quạt trần giúp mình với;turn_off_fan
+có thể tắt cái quạt kia không;turn_off_fan
+làm ơn tắt quạt đi ạ;turn_off_fan
+bạn vui lòng tắt quạt giúp tôi;turn_off_fan
+tắt quạt giúp anh với;turn_off_fan
+tắt quạt giúp em cái;turn_off_fan
+làm ơn tắt quạt cho tôi;turn_off_fan
+bạn tắt quạt hộ tôi được không;turn_off_fan
+tôi muốn nhờ bạn tắt quạt;turn_off_fan
+bạn có thể tắt quạt ở đây không;turn_off_fan
+làm ơn tắt quạt đi, cảm ơn;turn_off_fan
+bạn tắt quạt giùm mình đi;turn_off_fan
+phiền bạn một chút, tắt quạt giúp tôi;turn_off_fan
+bạn làm ơn tắt quạt phòng tắm;turn_off_fan
+làm ơn tắt hết quạt giúp tôi với;turn_off_fan
+bạn tắt quạt dưới nhà giúp tôi nhé;turn_off_fan
+có thể tắt quạt được rồi đấy ạ;turn_off_fan
+làm ơn tắt quạt đi, tôi cảm ơn;turn_off_fan
+bạn tắt quạt giúp tôi, tôi đang bận tay;turn_off_fan
+làm ơn tắt quạt hộ tôi, tôi với không tới;turn_off_fan
+bạn tắt quạt giùm em với, em lười quá;turn_off_fan
+bạn có thể tắt quạt giúp tôi được không ạ;turn_off_fan
+mở nhạc lên đi;play_music
+"bật bài ""nơi này có anh"" của sơn tùng m-tp đi";play_music
+cho tôi nghe vài bản nhạc trẻ;play_music
+mở radio lên;play_music
+bật playlist nhạc bolero tôi nghe với;play_music
+cho chạy bài hát yêu thích của tôi;play_music
+mở nhạc không lời để học bài;play_music
+bật kênh âm nhạc trên tv đi;play_music
+cho tôi nghe nhạc hàn quốc gần đây;play_music
+"mở album ""một triệu khả năng"" đi";play_music
+bật nhạc sôi động lên, tôi tập thể dục;play_music
+cho tôi nghe vài bản rock;play_music
+mở nhạc thiếu nhi cho con nghe;play_music
+"bật bài ""bống bống bang bang"" đi";play_music
+cho tôi nghe nhạc vàng, mấy bài của chế linh ấy;play_music
+bật nhạc lên đi;play_music
+bật một bài hát cho tôi nghe;play_music
+cho tôi nghe nhạc trẻ;play_music
+phát bài của sơn tùng đi;play_music
+mở playlist yêu thích của tôi;play_music
+bật nhạc không lời nhẹ nhàng;play_music
+cho chạy nhạc quốc tế đi;play_music
+mở bài hát mới nhất;play_music
+bật nhạc hàn quốc;play_music
+phát một bài remix sôi động;play_music
+cho tôi nghe nhạc cổ điển;play_music
+mở radio âm nhạc;play_music
+bật danh sách nhạc chill;play_music
+phát bài hát yêu thích của tôi;play_music
+mở nhạc thư giãn;play_music
+bạn có thể mở nhạc giúp tôi được không;play_music
+làm ơn cho tôi nghe một bài hát nhẹ nhàng được không;play_music
+phiền bạn bật giúp tôi bản nhạc yêu thích;play_music
+có thể cho tôi nghe radio không;play_music
+bạn có playlist nào hay không, bật thử đi;play_music
+làm ơn mở nhạc trữ tình giúp tôi với ạ;play_music
+bạn có thể bật nhạc quốc tế cho tôi nghe không;play_music
+cho tôi xin một bài hát vui vẻ được không;play_music
+bạn làm ơn bật nhạc không lời giúp tôi học bài;play_music
+có thể mở album nhạc mới nhất được không;play_music
+bạn có thể mở nhạc giúp tôi không;play_music
+làm ơn bật cho tôi một bài hát được không;play_music
+bạn mở nhạc nhẹ nhàng cho tôi nhé;play_music
+có thể phát nhạc quốc tế không;play_music
+làm ơn cho tôi nghe nhạc chill với;play_music
+bạn bật nhạc lên giúp tôi được không;play_music
+cho tôi nghe một bài của sơn tùng được không;play_music
+bạn có thể mở radio âm nhạc không;play_music
+làm ơn phát một bài nhạc không lời;play_music
+mở giúp tôi playlist yêu thích được không;play_music
+hôm nay buồn quá, mở nhạc lên đi;play_music
+tập thể dục cần nhạc sôi động, bật nhạc giúp tôi;play_music
+làm việc mà yên tĩnh quá, mở nhạc nhẹ đi;play_music
+trời mưa nghe nhạc vàng chắc hợp, bật lên đi;play_music
+muốn thư giãn một chút, mở nhạc không lời;play_music
+đang dọn nhà, bật nhạc vui lên đi;play_music
+tối rồi, mở nhạc chill nghe cho dễ ngủ;play_music
+căng thẳng quá, cho tôi nghe nhạc thư giãn;play_music
+đang lái xe, bật nhạc quốc tế giúp tôi;play_music
+muốn có không khí, mở nhạc lên đi;play_music
+hôm nay tôi không được vui, bật bài nào vui vẻ lên đi;play_music
+tập thể dục cần nhạc sôi động, bật lên đi;play_music
+con đang học bài, bố mở nhạc không lời cho con nhé;play_music
+trời mưa buồn quá, bật vài bản nhạc jazz đi;play_music
+vui quá, mở nhạc nhảy lên nào;play_music
+em bé đang khóc, bật nhạc thiếu nhi cho cháu nghe;play_music
+mẹ đang nấu ăn, mở nhạc trữ tình nghe cho vui;play_music
+tôi đang làm việc nhà, bật nhạc sôi động lên cho có hứng;play_music
+trời nóng quá, bật nhạc mát mẻ nghe cho đỡ bực;play_music
+chuẩn bị đi ngủ rồi, mở nhạc êm dịu đi;play_music
+nhà mình ồn ào quá;play_music
+chán quá, có gì vui không;play_music
+hôm nay tâm trạng thất thường quá;play_music
+trời ơi, im ắng quá;play_music
+lâu rồi chưa nghe nhạc nhỉ;play_music
+có ai đó hát hay quá, muốn nghe thêm;play_music
+ê, bài này nghe quen quá;play_music
+hình như sắp có concert của sơn tùng nhỉ;play_music
+radio đâu rồi nhỉ;play_music
+tối nay thích nghe gì đó nhẹ nhàng;play_music
+chán quá, có gì nghe không nhỉ;play_music
+không khí yên tĩnh quá;play_music
+hôm nay muốn nghe gì đó nhẹ nhàng;play_music
+có bài nào hay không ta;play_music
+tự nhiên muốn nghe nhạc ghê;play_music
+không biết có bài nào chill không;play_music
+nghe gì đó cho đỡ buồn đi;play_music
+có gì vui vui để nghe không;play_music
+mở cái gì đó cho đỡ im lặng đi;play_music
+nghe nhạc chắc đỡ căng thẳng;play_music
+im lặng quá nhỉ;play_music
+đừng mở nhạc này;stop_music
+dừng nhạc lại;stop_music
+tắt bài hát này;stop_music
+dừng phát nhạc;stop_music
+tắt hết nhạc;stop_music
+im đi, tắt nhạc;stop_music
+dừng lại;stop_music
+tắt cái này đi;stop_music
+ngừng phát;stop_music
+tắt radio;stop_music
+dừng nhạc phòng khách;stop_music
+tắt bản nhạc đang chạy;stop_music
+ngừng ngay;stop_music
+tắt hết âm thanh;stop_music
+dừng playlist lại;stop_music
+tắt nhạc;stop_music
+dừng nhạc;stop_music
+ngừng phát nhạc;stop_music
+tắt bài hát;stop_music
+dừng bài đang phát;stop_music
+ngắt nhạc;stop_music
+tắt nhạc đi;stop_music
+dừng nhạc ngay;stop_music
+tắt nhạc giúp tôi;stop_music
+ngừng phát bài;stop_music
+dừng playlist;stop_music
+tắt nhạc luôn;stop_music
+ngắt âm nhạc;stop_music
+tắt bài hát ngay;stop_music
+bạn có thể tắt nhạc giúp tôi không;stop_music
+làm ơn dừng nhạc;stop_music
+bạn tắt nhạc giúp tôi nhé;stop_music
+có thể dừng nhạc không;stop_music
+tắt nhạc giùm tôi;stop_music
+bạn dừng nhạc giúp tôi được không;stop_music
+làm ơn tắt bài hát;stop_music
+có thể ngừng nhạc không;stop_music
+dừng nhạc giúp tôi nhé;stop_music
+làm ơn tắt nhạc;stop_music
+làm ơn tắt nhạc giúp tôi;stop_music
+bạn có thể dừng nhạc được không;stop_music
+phiền anh tắt nhạc đi;stop_music
+cho tôi nhờ tắt bài hát này;stop_music
+làm ơn ngừng phát nhạc;stop_music
+bạn vui lòng tắt nhạc giúp;stop_music
+có thể dừng nhạc lại được không ạ;stop_music
+xin hãy tắt nhạc;stop_music
+làm ơn im lặng một chút;stop_music
+dừng nhạc hộ tôi;stop_music
+điện thoại reo, tắt nhạc đi;stop_music
+con đang học, bố tắt nhạc giúp con;stop_music
+họp online rồi, tắt nhạc đi;stop_music
+em bé ngủ rồi, tắt nhạc kẻo thức;stop_music
+ồn quá không nghe được ai gọi, tắt nhạc;stop_music
+hết giờ tập thể dục rồi, tắt nhạc;stop_music
+đau đầu quá, tắt nhạc đi;stop_music
+phim đang hay, tắt nhạc nền đi;stop_music
+ăn cơm xong rồi, tắt nhạc;stop_music
+ra ngoài, tắt nhạc cho đỡ tốn điện;stop_music
+ồn quá, tắt nhạc đi;stop_music
+không nghe nhạc này nữa;stop_music
+nhạc lớn quá, dừng lại;stop_music
+cần yên tĩnh, tắt nhạc;stop_music
+đang họp, dừng nhạc;stop_music
+không hợp gu, tắt đi;stop_music
+muốn nghỉ ngơi, tắt nhạc;stop_music
+nhức đầu quá, dừng nhạc;stop_music
+không thích nghe nhạc này;stop_music
+không cần nhạc nữa;stop_music
+ồn quá nhỉ;stop_music
+không muốn nghe nữa;stop_music
+nhạc hơi lớn;stop_music
+không hợp lắm;stop_music
+yên tĩnh chút đi;stop_music
+không thích bài này;stop_music
+khó chịu quá;stop_music
+nhức đầu ghê;stop_music
+không ổn lắm;stop_music
+dừng lại thôi;stop_music
+ồn quá;stop_music
+im đi;stop_music
+thôi, không nghe nữa;stop_music
+đủ rồi;stop_music
+im lặng được không;stop_music
+làm ơn im lặng;stop_music
+hết rồi;stop_music
+đừng hát nữa;stop_music
+dẹp đi;stop_music
+hôm nay thời tiết thế nào;ask_weather
+ngày mai có mưa không;ask_weather
+nhiệt độ ngoài trời bao nhiêu;ask_weather
+dự báo thời tiết tuần này ra sao;ask_weather
+hôm nay nắng hay mưa;ask_weather
+độ ẩm hôm nay cao không;ask_weather
+bao giờ hết mưa;ask_weather
+chiều nay có mưa rào không;ask_weather
+sáng mai trời thế nào;ask_weather
+cuối tuần thời tiết có đẹp không;ask_weather
+nhiệt độ cao nhất hôm nay là bao nhiêu;ask_weather
+có bão không;ask_weather
+gió mạnh không;ask_weather
+thời tiết ở hà nội hôm nay;ask_weather
+dự báo thời tiết ngày mai;ask_weather
+xem thời tiết hôm nay;ask_weather
+cho tôi biết thời tiết;ask_weather
+kiểm tra thời tiết;ask_weather
+xem dự báo thời tiết;ask_weather
+cho tôi xem thời tiết hôm nay;ask_weather
+kiểm tra thời tiết ngoài trời;ask_weather
+xem trời hôm nay thế nào;ask_weather
+cho tôi thông tin thời tiết;ask_weather
+mở dự báo thời tiết;ask_weather
+xem nhiệt độ hôm nay;ask_weather
+kiểm tra trời có mưa không;ask_weather
+xem thời tiết ngày mai;ask_weather
+cho biết thời tiết hiện tại;ask_weather
+xem tình hình thời tiết;ask_weather
+kiểm tra thời tiết giúp tôi;ask_weather
+bạn có thể cho tôi biết thời tiết không;ask_weather
+làm ơn xem giúp tôi thời tiết hôm nay;ask_weather
+bạn kiểm tra thời tiết giúp tôi nhé;ask_weather
+có thể cho tôi biết trời hôm nay thế nào không;ask_weather
+làm ơn xem dự báo thời tiết;ask_weather
+bạn cho tôi biết có mưa không;ask_weather
+có thể kiểm tra thời tiết không;ask_weather
+bạn xem thời tiết giúp tôi được không;ask_weather
+làm ơn cho tôi biết nhiệt độ;ask_weather
+bạn cho tôi xem thời tiết hôm nay;ask_weather
+bạn có thể cho tôi biết thời tiết hôm nay không;ask_weather
+làm ơn cho hỏi ngày mai có mưa không ạ;ask_weather
+xin vui lòng cập nhật thời tiết hiện tại;ask_weather
+phiền bạn cho tôi biết nhiệt độ bên ngoài;ask_weather
+cho tôi hỏi dự báo thời tiết cuối tuần;ask_weather
+bạn có thể thông báo thời tiết sáng nay không;ask_weather
+làm ơn cho tôi biết có mưa không;ask_weather
+xin hãy cho biết thời tiết khu vực tôi đang ở;ask_weather
+cập nhật thời tiết giúp tôi;ask_weather
+bạn vui lòng báo thời tiết;ask_weather
+sắp ra ngoài, xem thời tiết giúp tôi;ask_weather
+đi chơi nên cần biết thời tiết;ask_weather
+không biết có mưa không, kiểm tra giúp tôi;ask_weather
+muốn chuẩn bị đồ, xem thời tiết;ask_weather
+trời có vẻ xấu, kiểm tra thời tiết;ask_weather
+sắp đi làm, xem thời tiết hôm nay;ask_weather
+đi du lịch nên cần xem thời tiết;ask_weather
+không biết nóng hay lạnh, xem giúp tôi;ask_weather
+muốn biết nhiệt độ, kiểm tra thời tiết;ask_weather
+ra ngoài cần xem thời tiết;ask_weather
+sắp đi chơi, cho hỏi thời tiết hôm nay thế nào;ask_weather
+chuẩn bị đi làm, xem có cần mang áo mưa không;ask_weather
+phơi đồ ngoài sân, liệu trời có mưa không;ask_weather
+mai đi du lịch, xem thời tiết thế nào;ask_weather
+trồng cây ngoài vườn, cần biết có nắng không;ask_weather
+đi tập thể dục, trời có nóng quá không;ask_weather
+hôm nay có bão không, tôi sợ lắm;ask_weather
+sắp tổ chức tiệc ngoài trời, coi trời có mưa không;ask_weather
+con đi học về, biết nắng hay mưa để đón;ask_weather
+có cần bật điều hòa không;ask_weather
+hôm nay trời thế nào nhỉ;ask_weather
+nắng không;ask_weather
+mưa không;ask_weather
+nóng hay lạnh;ask_weather
+có cần mang ô không;ask_weather
+ngoài trời đang ra sao;ask_weather
+có mưa không;ask_weather
+trời đẹp quá nhỉ;ask_weather
+sao lạnh thế này, bao nhiêu độ vậy;ask_weather
+không biết hôm nay trời thế nào nhỉ;ask_weather
+có mưa không ta;ask_weather
+hôm nay nóng hay lạnh;ask_weather
+thời tiết sao rồi;ask_weather
+trời hôm nay thế nào;ask_weather
+có cần mang áo khoác không;ask_weather
+ngoài trời ra sao;ask_weather
+trời có đẹp không;ask_weather
+có nắng không nhỉ;ask_weather
+hôm nay thời tiết ổn không;ask_weather
+xem giờ;ask_time
+cho tôi biết giờ;ask_time
+kiểm tra thời gian;ask_time
+xem giờ hiện tại;ask_time
+cho tôi biết bây giờ là mấy giờ;ask_time
+xem đồng hồ;ask_time
+kiểm tra giờ;ask_time
+xem thời gian hiện tại;ask_time
+cho tôi xem giờ;ask_time
+xem giờ giúp tôi;ask_time
+kiểm tra mấy giờ rồi;ask_time
+cho biết giờ hiện tại;ask_time
+xem giờ ngay;ask_time
+kiểm tra thời gian giúp tôi;ask_time
+xem bây giờ mấy giờ;ask_time
+mấy giờ rồi;ask_time
+bây giờ là mấy giờ;ask_time
+mấy giờ rồi ạ;ask_time
+cho hỏi giờ hiện tại;ask_time
+bây giờ là bao nhiêu giờ;ask_time
+xem giúp tôi mấy giờ;ask_time
+giờ này là mấy giờ;ask_time
+thời gian hiện tại;ask_time
+bây giờ đúng mấy giờ;ask_time
+mấy giờ tối rồi;ask_time
+đã mấy giờ sáng;ask_time
+xem giờ dùm;ask_time
+còn bao lâu nữa đến 12 giờ;ask_time
+bây giờ là mấy giờ, tôi quên xem;ask_time
+bạn có thể cho tôi biết bây giờ là mấy giờ không;ask_time
+phiền bạn cho hỏi giờ hiện tại;ask_time
+xin vui lòng thông báo giờ;ask_time
+bạn vui lòng cho biết mấy giờ rồi;ask_time
+làm ơn cho tôi biết giờ;ask_time
+có thể cho tôi biết bây giờ là mấy giờ được không;ask_time
+xin hãy xem giờ dùm tôi;ask_time
+bạn ơi, xem giúp tôi mấy giờ rồi;ask_time
+làm ơn cập nhật giờ hiện tại;ask_time
+bạn có thể cho tôi biết mấy giờ không;ask_time
+làm ơn xem giờ giúp tôi;ask_time
+bạn cho tôi biết giờ hiện tại nhé;ask_time
+có thể cho tôi biết giờ không;ask_time
+làm ơn kiểm tra giờ;ask_time
+bạn xem giờ giúp tôi được không;ask_time
+cho tôi biết mấy giờ rồi;ask_time
+bạn kiểm tra thời gian giúp tôi;ask_time
+có thể xem giờ không;ask_time
+làm ơn cho tôi biết thời gian;ask_time
+sắp trễ rồi, xem giờ giúp tôi;ask_time
+tôi muốn biết giờ để đi làm;ask_time
+không biết mấy giờ rồi;ask_time
+cần xem giờ để đi học;ask_time
+sắp đến giờ họp, kiểm tra giờ;ask_time
+muốn canh giờ, xem giúp tôi;ask_time
+không biết thời gian hiện tại là mấy giờ rồi;ask_time
+đang vội, xem giờ;ask_time
+cần biết giờ chính xác;ask_time
+muốn kiểm tra thời gian;ask_time
+chuẩn bị đi làm, xem mấy giờ rồi;ask_time
+hẹn bạn lúc 8 giờ, bây giờ mấy giờ rồi;ask_time
+nấu cơm xem đã đến giờ ăn chưa;ask_time
+đi ngủ thôi, xem mấy giờ rồi;ask_time
+con đi học về chưa? xem giờ đi;ask_time
+bật báo thức lúc mấy giờ nhỉ? xem giờ hiện tại;ask_time
+phim chiếu này mấy giờ? xem đã đến giờ chưa;ask_time
+tôi đi tập thể dục buổi sáng, xem đã 5 giờ chưa;ask_time
+họp online lúc 10 giờ, xem còn bao lâu;ask_time
+uống thuốc đúng giờ, xem bây giờ là mấy giờ;ask_time
+giờ giấc thế nào rồi;ask_time
+đã muộn chưa;ask_time
+sắp 12 giờ chưa;ask_time
+còn sớm không;ask_time
+tối chưa nhỉ;ask_time
+sáng chưa;ask_time
+chắc trưa rồi nhỉ;ask_time
+khuya chưa;ask_time
+đến giờ ăn chưa;ask_time
+đã ngủ chưa;ask_time
+mấy giờ rồi nhỉ;ask_time
+không biết giờ rồi;ask_time
+giờ sao rồi;ask_time
+có muộn chưa;ask_time
+tới giờ chưa;ask_time
+bao nhiêu giờ rồi;ask_time
+không rõ thời gian;ask_time
+giờ hiện tại là gì;ask_time
+đến giờ chưa;ask_time
+bật vô tuyến;open_tv
+mở vô tuyến;open_tv
+bật vô tuyến lên;open_tv
+mở ti vi phòng khách;open_tv
+bật ti vi giúp tôi;open_tv
+mở ti vi ngay;open_tv
+cho ti vi chạy;open_tv
+bật màn hình;open_tv
+mở ti vi lên;open_tv
+bật ti vi đi;open_tv
+mở ti vi phòng tôi;open_tv
+cho vô tuyến hoạt động;open_tv
+bật ti vi lên đi;open_tv
+mở ti vi giúp tôi;open_tv
+bật ti vi lên;open_tv
+mở ti vi đi;open_tv
+bật ti vi phòng khách;open_tv
+mở ti vi;open_tv
+cho ti vi chạy đi;open_tv
+bật kênh vtv1;open_tv
+mở ti vi xem phim;open_tv
+bật ti vi lên xem thời sự;open_tv
+mở truyền hình;open_tv
+bật ti vi;open_tv
+cho ti vi hoạt động;open_tv
+mở ti vi phòng ngủ;open_tv
+bật kênh giải trí;open_tv
+mở ti vi lên đi con;open_tv
+bật ti vi, tôi xem bóng đá;open_tv
+làm ơn bật ti vi giúp tôi;open_tv
+bạn có thể mở ti vi được không;open_tv
+phiền anh bật ti vi phòng khách;open_tv
+cho tôi nhờ bật ti vi lên;open_tv
+xin hãy bật ti vi;open_tv
+bạn vui lòng bật ti vi giúp;open_tv
+có thể mở ti vi được không ạ;open_tv
+làm ơn bật ti vi hộ tôi;open_tv
+bật ti vi giúp em với;open_tv
+mở ti vi dùm tôi;open_tv
+bạn có thể bật ti vi giúp tôi không;open_tv
+làm ơn mở ti vi;open_tv
+bạn bật ti vi giúp tôi nhé;open_tv
+có thể mở ti vi không;open_tv
+bật ti vi giùm tôi;open_tv
+bạn mở ti vi giúp tôi được không;open_tv
+làm ơn bật kênh truyền hình lên;open_tv
+có thể bật ti vi không;open_tv
+mở ti vi giúp tôi nhé;open_tv
+làm ơn bật ti vi;open_tv
+muốn xem phim, bật ti vi;open_tv
+có trận bóng, mở ti vi;open_tv
+muốn xem tin tức, bật ti vi;open_tv
+giải trí chút, mở ti vi;open_tv
+đang rảnh, bật ti vi;open_tv
+muốn xem chương trình, mở ti vi;open_tv
+bật ti vi để xem;open_tv
+muốn thư giãn, bật ti vi;open_tv
+xem phim nên mở ti vi;open_tv
+có show hay, bật ti vi;open_tv
+sắp có phim hay, bật ti vi lên;open_tv
+bóng đá sắp đá rồi, bật ti vi đi;open_tv
+xem thời sự 7 giờ, bật ti vi;open_tv
+ở nhà buồn quá, bật ti vi xem;open_tv
+có khách đến chơi, bật ti vi mời xem;open_tv
+con muốn xem hoạt hình, bật ti vi giúp con;open_tv
+chương trình ca nhạc tối nay, bật ti vi;open_tv
+tập thể dục với ti vi, bật lên;open_tv
+nghe tin dự báo bão, bật ti vi xem;open_tv
+bật ti vi xem thời tiết;open_tv
+muốn xem gì đó;open_tv
+có gì trên ti vi không;open_tv
+xem phim gì hay đi;open_tv
+có chương trình gì hay không;open_tv
+muốn giải trí;open_tv
+bật cái gì đó xem đi;open_tv
+xem ti vi chút;open_tv
+không biết xem gì;open_tv
+có phim gì không;open_tv
+mở ti vi lên xem có gì hay không;open_tv
+ti vi đâu rồi, bật lên;open_tv
+xem phim đi;open_tv
+hôm nay có chương trình gì không;open_tv
+lâu rồi không xem ti vi;open_tv
+bật kênh thể thao;open_tv
+tối nay có gì không;open_tv
+mở ti vi đi, chán quá;open_tv
+nghe ngóng tin tức;open_tv
+coi bóng đá không;open_tv
+ngắt vô tuyến đi;close_tv
+tôi không xem nữa, tắt vô tuyến;close_tv
+tắt ti vi phòng khách;close_tv
+ngắt ti  đi;close_tv
+ngắt hộ tôi cái ti vi;close_tv
+tắt ti vi cho tôi;close_tv
+ngừng xem, tắt đi;close_tv
+tắt ngay;close_tv
+ngừng hết ti vi;close_tv
+tắt truyền hình;close_tv
+đóng ti vi phòng ngủ;close_tv
+đóng ti vi đi, không xem nữa;close_tv
+tắt ti vi, chương trình kết thúc rồi;close_tv
+tắt đi, tốn điện;close_tv
+tắt nó đi;close_tv
+ngắt màn hình đi;close_tv
+tắt màn hình;close_tv
+tắt ti vi ngay;close_tv
+ngừng ti vi;close_tv
+tắt ti vi giúp tôi;close_tv
+ngắt ti vi;close_tv
+tắt ti vi phòng tôi;close_tv
+cho ti vi dừng;close_tv
+tắt ti vi luôn;close_tv
+ngừng phát ti vi;close_tv
+tắt ti vi đi;close_tv
+bạn có thể tắt ti vi giúp tôi không;close_tv
+làm ơn tắt vô tuyến giúp tôi;close_tv
+bạn tắt ti vi giúp tôi nhé;close_tv
+có thể tắt ti vi không;close_tv
+tắt ti vi giùm tôi;close_tv
+bạn tắt ti vi giúp tôi được không;close_tv
+làm ơn ngắt vô tuyến cho tôi;close_tv
+có thể ngắt ti vi không;close_tv
+tắt ti vi giúp tôi nhé;close_tv
+làm ơn tắt ti vi;close_tv
+làm ơn tắt ti vi giúp tôi;close_tv
+bạn có thể tắt ti vi được không;close_tv
+phiền anh tắt ti vi phòng khách;close_tv
+cho tôi nhờ tắt ti vi;close_tv
+xin hãy tắt ti vi;close_tv
+bạn vui lòng tắt ti vi giúp;close_tv
+có thể ngừng ti vi được không ạ;close_tv
+làm ơn tắt ti vi hộ tôi;close_tv
+ngắt ti vi giúp em;close_tv
+tắt ti vi dùm tôi;close_tv
+hết phim rồi, tắt ti vi đi;close_tv
+đi ngủ thôi, tắt ti vi;close_tv
+con học bài, bố tắt ti vi giúp con;close_tv
+không ai xem, tắt cho đỡ tốn điện;close_tv
+bóng đá xong rồi, tắt đi;close_tv
+em bé ngủ, tắt ti vi kẻo ồn;close_tv
+ra ngoài, tắt ti vi;close_tv
+mưa giông sắp tới, tắt ti vi tránh sét;close_tv
+tắt ti vi, nói chuyện với nhau;close_tv
+chương trình không hay, tắt đi;close_tv
+muốn ngủ, tắt ti vi;close_tv
+không xem nữa, tắt ti vi;close_tv
+ồn quá, tắt ti vi;close_tv
+tiết kiệm điện, tắt ti vi;close_tv
+xem xong rồi, tắt ti vi;close_tv
+không cần nữa, tắt ti vi;close_tv
+nhức đầu quá, tắt ti vi;close_tv
+không thích chương trình, tắt ti vi;close_tv
+muốn yên tĩnh, tắt ti vi;close_tv
+xem xong rồi;close_tv
+không cần nữa;close_tv
+đủ rồi, tắt đi;close_tv
+chán quá, tắt đi;close_tv
+không xem nữa;close_tv
+ngắt màn hình ti vi đi;close_tv
+ngắt kênh này đi;close_tv
